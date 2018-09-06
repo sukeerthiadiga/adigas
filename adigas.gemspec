@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Sukeerthi Adiga G"]
   spec.email         = ["sukeerthiadiga@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "There is no page yet."
+  spec.summary       = %q{Adigas is a web-application framework}
+  spec.description   = %q{Yet another web-application framework written in ruby that includes everything needed to create
+                          database-backed web applications according to the Model-View-Controller (MVC) pattern}
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
